@@ -24,6 +24,13 @@ The project is developed with **HTML, CSS, and Vanilla JavaScript**, following a
 
 ---
 
+## 🎥 Preview
+
+![1](1.png)  
+![2](2.png)
+![3](3.png)
+---
+
 ## 🗂️ Project Structure
 
 The project is structured in a modular way to keep responsibilities separated and the codebase easy to maintain.

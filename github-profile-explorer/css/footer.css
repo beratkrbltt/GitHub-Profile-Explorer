@@ -1,0 +1,37 @@
+#footer {
+    background-color: #fff;
+    border: 1px solid lightgray;
+    margin-bottom: 50px;
+}
+
+#mainDiv {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 10px;
+}
+
+#socialmediaDiv {
+    display: flex;
+    gap: 50px;
+}
+
+#mediumLogo {
+    font-size: 2rem;
+    color: rgb(0, 0, 0);
+
+}
+
+#linkedinLogo {
+    font-size: 2rem;
+    color: rgb(0, 26, 255);
+
+}
+
+#githubLogo {
+    font-size: 2rem;
+    color: rgb(0, 0, 0);
+
+}
